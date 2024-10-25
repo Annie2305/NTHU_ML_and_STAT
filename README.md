@@ -1,2 +1,1 @@
-This is the content about problem set 2 from Prof. Chang.
-  The code is mainly about question 4.
+This is the content about statistics problem set from Prof. Chang.
